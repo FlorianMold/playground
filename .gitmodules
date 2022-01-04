@@ -1,0 +1,3 @@
+[submodule "nx-playground"]
+	path = nx-playground
+	url = git@github.com:FlorianMold/nx-playground.git
