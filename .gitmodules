@@ -1,3 +1,6 @@
 [submodule "nx-playground"]
 	path = nx-playground
 	url = git@github.com:FlorianMold/nx-playground.git
+[submodule "grpc-playground"]
+	path = grpc-playground
+	url = git@github.com:FlorianMold/grpc-playground.git
