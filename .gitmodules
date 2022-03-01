@@ -4,3 +4,6 @@
 [submodule "grpc-playground"]
 	path = grpc-playground
 	url = git@github.com:FlorianMold/grpc-playground.git
+[submodule "kafka-playground"]
+	path = kafka-playground
+	url = git@github.com:FlorianMold/kafka-playground.git
